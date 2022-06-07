@@ -1,5 +1,4 @@
 // Import the functions you need from the SDKs you need
-import { async } from '@firebase/util'
 import { initializeApp } from 'firebase/app'
 import {
 	getAuth,
